@@ -1,0 +1,120 @@
+.nav-row-style {
+  height: 100px;
+  border: 2px solid black;
+}
+
+.red-course-div {
+  /* height: 250px; */
+  background-color: red;
+}
+
+.mid-title-up {
+  height: 100px;
+  /* background-color: yellow; */
+}
+.mid-img-up {
+  /* height: 200px; */
+  /* background-color: orange; */
+}
+
+.footer-grey {
+  /* height: 250px; */
+  background-color: grey;
+  color: white;
+  padding: 0 7%;
+}
+.footer-black {
+  height: 70px;
+  background-color: black;
+
+}
+.footer-black p {
+  color: white;
+  padding-left: 8%;
+  line-height:  .03;
+
+
+}
+
+.red-course-div div {
+  /* height: 245px; */
+  /* border: 2px solid white; */
+}
+.mid-img-up div {
+  /* height: 195px; */
+  border: 2px solid white;
+}
+.footer-grey div {
+  /* height: 220px;
+  border: 2px solid white; */
+}
+
+.my-nav {
+  background-color: white;
+  border: 0px;
+}
+
+.my-colapse-nav-part {
+  margin-right: 20%;
+  margin-left: 10%;
+}
+/* .bottom-links li a {
+  border-bottom: 5px dotted #808080;
+  padding-top: 5px;
+  padding-bottom: 5px;
+} */
+.circle .my-glyf-glass {
+  color: white;
+  font-size: 35px;
+  padding: 20%;
+}
+.circle {
+  margin-top: 5%;
+  margin-left: 43%;
+  border: 1px solid white;
+  height: 60px !important;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.carousel-image img {
+  min-width: 100%;
+  max-height:550px;
+}
+.red-course-div center h4 {
+  color: white;
+}
+.red-course-div p {
+  padding-top: 3%;
+  text-align: center;
+  color: white;
+}
+.footer-grey ul li a {
+color: inherit;
+border-bottom: 1px dotted white;
+text-decoration: none;
+
+}
+.footer-grey ul li {
+padding-bottom: 4%;
+border-bottom: 1px dotted white;
+padding-top: 3%;
+
+}
+
+
+.footer-grey p a {
+color: inherit;
+text-decoration: none;
+
+}
+.footer-grey h4 {
+text-transform: uppercase;
+
+}
+.footer-grey p {
+border-bottom: 1px dotted white;
+padding-top: 3%;
+padding-bottom: 4%;
+
+}
